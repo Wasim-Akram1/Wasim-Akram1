@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wasim-Akram1
 - 👀 I’m interested in Coding and Playing Cricket  
 - 🌱 I’m currently learning Data Structure 
-- 💞️ I’m looking to collaborate on on open source projects that use Python and C++
+- 💞️ I’m looking to collaborate on on open source projects that use Python C and C++
 - 📫 How to reach me (wasimakramk60@gmail.com)
 
 <!---
