@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wasim-Akram1
 - 👀 I’m interested in Coding and Playing Cricket  
 - 🌱 I’m currently learning Web Development 
--     Skills:-NUMPY, Python My SQL,  
+-     Skills:-NUMPY, Python, My SQL, Data Structure 
 - 💞️ I’m looking to collaborate on open source projects that usees Python
 - 📫 How to reach me (wasimakramk60@gmail.com)
 
