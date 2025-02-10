@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wasim-Akram1
 - 👀 I’m interested in Coding and Playing Cricket  
 - 🌱 I’m currently learning Web Development 
--     Skills:-Python, My SQL, HTML, CSS
-- 💞️ I’m looking to collaborate on open source projects that usees Python
+-     Skills:-Python, My SQL, HTML, CSS, JavaScript, ReactJs
+- 💞️ I’m looking to collaborate on open source projects that matches my skills
 - 📫 How to reach me (wasimakramk60@gmail.com)
 
 <!---
