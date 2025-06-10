@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wasim-Akram1
 - 👀 I’m interested in Coding and Playing Cricket  
-- 🌱 I’m currently learning Full Stack Web Development 
+- 🌱 I’m Software Enginner 
 -     Skills:-Python, My SQL, HTML, CSS, JavaScript, MERN
 - 💞️ I’m looking to collaborate on open source projects that matches my skills
 - 💞️ I’m also Looking for job that matches my Skills.  
