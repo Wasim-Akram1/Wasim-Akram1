@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Wasim-Akram1
 - 👀 I’m interested in Coding and Playing Cricket  
-- 🌱 I’m Software Enginner 
--     Skills:-Python, My SQL, HTML, CSS, JavaScript, MERN
-- 💞️ I’m looking to collaborate on open source projects that matches my skills
+- 🌱 I’m Associate Software Engineer 
+-     Skills: -Python, My SQL, Node.js, Express.js, Dart, Flutter
 - 💞️ I’m also Looking for job that matches my Skills.  
 - 📫 How to reach me (wasimakramk60@gmail.com)
 
