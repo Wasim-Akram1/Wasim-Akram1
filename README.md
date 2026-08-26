@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wasim-Akram1
 - 👀 I’m interested in Coding and Playing Cricket  
-- 🌱 I’m Associate Software Engineer 
+- 🌱 I’m Associate Software Engineer @NutroSoul 
 -     Skills: -Python, My SQL, Node.js, Express.js, Dart, Flutter
 - 💞️ I’m also Looking for job that matches my Skills.  
 - 📫 How to reach me (wasimakramk60@gmail.com)
